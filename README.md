@@ -1,6 +1,6 @@
 # Bus-Usage-Forecasting
 
-Time series forecasting problem for predicting bus usages for 9 municipalities. The project steps involve:
+Time series forecasting by predicting bus usages during hours of the day for 9 municipalities. The project steps involve:
 
 1) Data Reading and Inspection
 2) Exploratory Data Analysis
