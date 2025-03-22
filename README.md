@@ -7,3 +7,5 @@ Time series forecasting by predicting bus usages during hours of the day for 9 m
 3) Baseline Predictions
 4) Feature Generation
 5) Final Model and Predictions
+
+Dataset is obtained from [Kaggle](https://www.kaggle.com/datasets/berkantaslan/municipality-bus-utilization)
