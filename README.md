@@ -123,7 +123,7 @@ The image below shows how the residuals are distributed along the actual values 
 
 The image below shows how well the model predicted the test set by overlapping the actual usage values and predictions
 
-![Prediction Horizon](assets/predictions.png)
+![Prediction Horizon](assets/predictions.jpg)
 
 ## 🤝 Contributing
 
