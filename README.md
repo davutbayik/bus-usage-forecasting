@@ -7,17 +7,16 @@
 
 Time series forecasting of hourly bus usage across 9 municipalities using machine learning models. This project involves data preprocessing, exploratory data analysis, baseline modeling, feature engineering, and advanced modeling techniques to predict bus usage patterns.
 
-
 ## 📊 Project Overview
 
 This project aims to forecast hourly bus usage for 9 different municipalities. The dataset includes timestamps, usage counts, and total capacity for each municipality. The forecasting process encompasses:
 
-1. **Data Reading and Preprocessing**: Handling missing values and aggregating measurements.
-2. **Exploratory Data Analysis (EDA)**: Understanding usage patterns and trends.
-3. **Baseline Predictions**: Implementing simple models for initial benchmarks.
-4. **Feature Generation**: Creating time-based features to enhance model performance.
-5. **Hyperparameter Tuning**: Optimize parameters of machine learning model to achieve the best result.
-6. **Advanced Modeling**: Utilizing machine learning models for accurate forecasting.
+- 📥 **Data Reading and Preprocessing**: Handling missing values and aggregating measurements
+- 📊 **Exploratory Data Analysis (EDA)**: Understanding usage patterns and trends
+- 🧪 **Baseline Predictions**: Implementing simple models for initial benchmarks
+- 🕰️ **Feature Generation**: Creating time-based features to enhance model performance
+- ⚙️ **Hyperparameter Tuning**: Optimize parameters of machine learning model to achieve the best result
+- 🤖 **Advanced Modeling**: Utilizing machine learning models for accurate forecasting
 
 ## 🚀 Getting Started
 
